@@ -1,0 +1,8 @@
+--- Содержимое file1.txt ---
+Hello world
+
+--- Содержимое file2.txt ---
+Hello my world
+
+--- Содержимое file3.txt ---
+Hello
